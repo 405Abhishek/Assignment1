@@ -1,6 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1 style="0color:blue;"> Hi !! I am abhishek</h1>
-</body>
-</html>

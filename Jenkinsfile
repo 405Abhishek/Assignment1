@@ -8,6 +8,7 @@ pipeline {
         
       	sh 'docker build -t html-page .'
       }
+      }
 
       stage('Run') {
     	agent any
@@ -17,3 +18,4 @@ pipeline {
       }
     }
   }
+}

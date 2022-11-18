@@ -1,7 +1,7 @@
 #!groovy
 pipeline {
 	agent {
-    docker {image 'nginx'}
+    docker {image 'nginx:latest'}
   }
   stages {
   	

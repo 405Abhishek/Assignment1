@@ -1,7 +1,7 @@
 #!groovy
 pipeline {
 	agent {
-    docker {image 'nginx:alpine'}
+    docker {image 'nginxs'}
   }
   stages {
   	
